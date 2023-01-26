@@ -2,4 +2,4 @@ hello word!
 hello git!
 hello change!
 hello change 2!
-hello hot-fix!
+hello hot-fix! master test
